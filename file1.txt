@@ -1,3 +1,6 @@
 this is sparta
 new line to file1
+<<<<<<< HEAD
 hello my friend
+=======
+fdhjkdhghdfk
